@@ -1,4 +1,0 @@
-Name: chelsea novo
-StudentID: 881525
-Name: novo chelse
-StudentID: 45875
